@@ -77,6 +77,7 @@
   - [服务端](/docs/{{version}}/wework/server)
   - [应用管理](/docs/{{version}}/wework/agents)
   - [消息发送](/docs/{{version}}/wework/message)
+  - [入群欢迎语素材管理](/docs/{{version}}/wework/group-welcome-template)
   - [通讯录](/docs/{{version}}/wework/contacts)
   - [网页授权](/docs/{{version}}/wework/oauth)
   - [外部联系人管理](/docs/{{version}}/wework/external-contact)
